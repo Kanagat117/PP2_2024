@@ -1,3 +1,3 @@
-if 5 > 3:
+if 5 > 2:
     print("YES")
     
